@@ -1,7 +1,7 @@
 require_relative 'rocket'
 
 class Mission
-  attr_reader :name, :distance_traveled, :fuel_burned, :time_elapsed
+  attr_reader :aborted, :exploded, :name, :distance_traveled, :fuel_burned, :time_elapsed
 
   def initialize(name)
     @name = name
