@@ -1,0 +1,1 @@
+echo "# Ignore common files" > .gitignore
