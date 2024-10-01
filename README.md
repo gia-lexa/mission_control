@@ -36,5 +36,5 @@ To start the game, run the following command in Terminal:
 
 - Prompts will surface to lead you through each stage of the rocket launch, Captain.
 - Make critical choices at each prompt to either proceed with the mission or abort it.
-- Handle unexpected events like mission aborts and explosions (oh noe!).
+- Handle unexpected events like mission aborts and explosions (watchout!).
 - View the summary of each mission attempt and choose to run another mission or exit.
