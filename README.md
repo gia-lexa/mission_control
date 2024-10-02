@@ -1,7 +1,9 @@
 # Mission Control
 
-Mission Control is a command-line game where a player controls rocket launches
-and manages mission details to achieve a successful space mission.
+Part of my build one thing a week series, Mission Control is a command-line game 
+where a player controls rocket launches and manages mission details to achieve 
+a successful space mission.
+
 This game simulates the process of launching a rocket into low Earth orbit
 including handling unexpected events like mission aborts and rocket explosions.
 
