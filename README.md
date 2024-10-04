@@ -1,11 +1,11 @@
 # Mission Control - just for fun
 
 Part of my "Build One Thing a Week" series, Mission Control is a Ruby CLI game 
-where a player controls rocket launches and manages mission details to achieve 
+where a player controls satellite launches and manages mission details to achieve 
 a successful space mission.
 
-This game simulates the process of launching a rocket into low Earth orbit
-including handling unexpected events like mission aborts and rocket explosions.
+This game simulates the process of launching a satellite into low Earth orbit
+including handling unexpected events like mission aborts and spontaenous combustions.
 
 
 ### Installation and Set Up
@@ -36,7 +36,7 @@ To start the game, run the following command in Terminal:
   ruby main.rb
 ```
 
-- Prompts will surface to lead you through each stage of the rocket launch, Captain.
+- Prompts will surface to lead you through each stage of the satellite launch, Captain.
 - Make critical choices at each prompt to either proceed with the mission or abort it.
-- Handle unexpected events like mission aborts and explosions (watchout!).
+- Handle unexpected events like mission aborts and spontaneous combustions (watchout!).
 - View the summary of each mission attempt and choose to run another mission or exit.
