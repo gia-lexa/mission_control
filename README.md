@@ -1,4 +1,4 @@
-# Mission Control
+# Mission Control - just for fun
 
 Part of my build one thing a week series, Mission Control is a command-line game 
 where a player controls rocket launches and manages mission details to achieve 
