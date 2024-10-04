@@ -1,6 +1,6 @@
 # Mission Control - just for fun
 
-Part of my build one thing a week series, Mission Control is a Ruby CLI game 
+Part of my "Build One Thing a Week" series, Mission Control is a Ruby CLI game 
 where a player controls rocket launches and manages mission details to achieve 
 a successful space mission.
 
